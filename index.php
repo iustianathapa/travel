@@ -112,7 +112,7 @@
     <label for="num_ticket">Number of Tickets</label>
     <input type="num_ticket" class="form-control" id="num_ticket" name="num_ticket" required>
   </div>
-  <button type="submit" name="btn-submit">Book Ticket</button>
+  <button type="submit" name="btnSubmit">Book Ticket</button>
 </form>
 
 
